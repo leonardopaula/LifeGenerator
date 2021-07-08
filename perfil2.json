@@ -1,0 +1,51 @@
+{
+    "user": {
+      "id": 0,
+      "name": "Jack"
+    },
+    "gad7": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2
+    ],
+    "sleep": {
+      "time": "23:00",
+      "physiological": [
+        "palpitations",
+        "irritation"
+      ]
+    },
+    "wake": "07:30",
+    "events": [
+      {
+        "name": "Work",
+        "time": [
+          "08:30",
+          "12:00"
+        ],
+        "physiological": [
+          "palpitations",
+          "breathShort",
+          "unconcentrated"
+        ],
+        "place": "Company"
+      },
+      {
+        "name": "Work",
+        "time": [
+          "13:00",
+          "18:00"
+        ],
+        "physiological": [
+          "palpitations",
+          "breathShort",
+          "unconcentrated"
+        ],
+        "place": "Company"
+      }
+    ]
+}
